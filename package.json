@@ -1,0 +1,7 @@
+{
+  "name": "lockfile-agent-test-repo",
+  "version": "1.0.0",
+  "description": "Minimal Node project for testing the Dependency Lockfile Anomaly Agent (public & private GitHub repos)",
+  "private": true,
+  "dependencies": {}
+}
