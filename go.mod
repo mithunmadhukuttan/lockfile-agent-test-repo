@@ -1,4 +1,4 @@
-module github.com/mithunmadhukuttan/lockfile-agent-test-repo
+module github.com/mithunmadhukuttan/lockfile-agent-test-repo-private
 
 go 1.22
 

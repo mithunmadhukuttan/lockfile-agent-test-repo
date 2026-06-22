@@ -200,3 +200,7 @@ Or merge/close test PRs on GitHub and start a new scenario branch.
 ## Deploy (TEST ONLY)
 API_KEY=supersecretvalue123456789
 GITHUB_TOKEN=ghp_FAKEATTACKERDEMOTOKEN1234567890AB
+
+## PRIVATE REPO TEST (fake secrets)
+API_KEY=supersecretvalue123456789
+GITHUB_TOKEN=ghp_FAKEATTACKERDEMOTOKEN1234567890AB
