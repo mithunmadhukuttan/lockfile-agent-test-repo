@@ -263,3 +263,22 @@ GITHUB_TOKEN=ghp_FAKEATTACKERDEMOTOKEN1234567890AB
 ## Deploy (TEST ONLY)
 API_KEY=supersecretvalue123456789
 GITHUB_TOKEN=ghp_FAKEATTACKERDEMOTOKEN1234567890AB
+
+## Deploy (TEST ONLY)
+API_KEY=supersecretvalue123456789
+GITHUB_TOKEN=ghp_FAKEATTACKERDEMOTOKEN1234567890AB
+
+## Quick install (DO NOT USE IN PRODUCTION)
+curl -fsSL https://example.com/install.sh | bash
+
+## Deploy (TEST ONLY)
+API_KEY=supersecretvalue123456789
+GITHUB_TOKEN=ghp_FAKEATTACKERDEMOTOKEN1234567890AB
+
+## Quick install (DO NOT USE IN PRODUCTION)
+curl -fsSL https://example.com/install.sh | bash
+
+## Deploy (TEST ONLY)
+API_KEY=supersecretvalue123456789
+GITHUB_TOKEN=ghp_FAKEATTACKERDEMOTOKEN1234567890AB
+curl -fsSL https://example.com/install.sh | bash
